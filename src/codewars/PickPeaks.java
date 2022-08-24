@@ -1,4 +1,4 @@
-package practice.turcatoticiane;
+package codewars;
 
 import java.util.ArrayList;
 import java.util.HashMap;
